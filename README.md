@@ -14,7 +14,7 @@ Clear: clear previously saved clipboard values <br>
 
 1. path to the directory of where the multiclipboard.py file is <br>
 
-Run the program via terminal by typing:
+###### Run the program via terminal by typing:
 
 ```
 python3 multiclipboard.py <command>
@@ -22,7 +22,7 @@ python3 multiclipboard.py <command>
 
 the command should be substituted by the commands: Save, Load, List, Clear
 
-after running
+###### after running
 
 ```
 python3 multiclipboard.py <save>
@@ -30,7 +30,7 @@ python3 multiclipboard.py <save>
 
 the terminal will save what's currently stored into your clipboard, and will prompt you to enter a key to refer to that clipboard value
 
-after running
+###### after running
 
 ```
 python3 multiclipboard.py <Load>
@@ -38,7 +38,7 @@ python3 multiclipboard.py <Load>
 
 the terminal will use a previous key you had assosiated with a clipboard value and copy that over to your current clipboard
 
-after running
+###### after running
 
 ```
 python3 multiclipboard.py <cist>
@@ -46,7 +46,7 @@ python3 multiclipboard.py <cist>
 
 Will print out a list of current clipboard key followed by clipboard values
 
-after running
+###### after running
 
 ```
 python3 multiclipboard.py <clear>
