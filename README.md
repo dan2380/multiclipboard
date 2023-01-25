@@ -33,7 +33,7 @@ the terminal will save what's currently stored into your clipboard, and will pro
 ###### after running
 
 ```
-python3 multiclipboard.py <Load>
+python3 multiclipboard.py <load>
 ```
 
 the terminal will use a previous key you had assosiated with a clipboard value and copy that over to your current clipboard
@@ -41,7 +41,7 @@ the terminal will use a previous key you had assosiated with a clipboard value a
 ###### after running
 
 ```
-python3 multiclipboard.py <cist>
+python3 multiclipboard.py <list>
 ```
 
 Will print out a list of current clipboard key followed by clipboard values
